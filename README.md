@@ -40,5 +40,3 @@ npm run dev
 
 
 ---
-
-**Happy Teaching! 🎓**
